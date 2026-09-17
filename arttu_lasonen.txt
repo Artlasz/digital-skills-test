@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Heya! My favourite game is Vermintide 2 and my favourite genre of games is coop horde shooter.
+=======
+Heya! My favourite game is Vermintide 2 and my favourite genre of game is co-op horde shooter.
+>>>>>>> origin/favourite-game
